@@ -5,6 +5,6 @@ public class PlanStudija {
     private Semestar semestar;
     private int broj_izbornih;
     private int ECTS_izbornih;
-    
+
 
 }
